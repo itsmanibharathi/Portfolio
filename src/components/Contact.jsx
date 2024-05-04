@@ -3,7 +3,6 @@ import contact_img from "../assets/images/contact.png"
 const Contact = () => {
   const contact_info = [
     { logo: "mail", text: "owncodezs@gmail.com" ,link:`https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Hi+There&to=owncodezs@gmail.com&body=body+goes+here`},
-    { logo: "logo-whatsapp", text: "+91 6385687966",link:"https://wa.me/6385687966?text=hay+Mani" },
     {
       logo: "location",
       text: "Erode",
