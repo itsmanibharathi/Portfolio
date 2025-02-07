@@ -4,7 +4,7 @@ const Hero = () => {
   const social_media = [
     {icon:"logo-github",link:"https://github.com/itsmanibharathi"},
     {icon:"logo-discord",link:"https://discord.com/users/its_mani#4196"},
-    {icon:"logo-facebook",link:"404"},
+    {icon:"logo-facebook",link:"http://itsmanibharathi.me"},
     {icon:"logo-linkedin",link:"https://www.linkedin.com/in/itsmanibharathi/"},
     {icon:"logo-codepen",link:"https://codepen.io/owncodezs"},
     {icon:"logo-twitter",link:"https://twitter.com/Mani02181917"},
